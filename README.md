@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ghos07/ghos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working on a game engine for Java.
+Learning Java and Unity C#
+Interested in software dev, vr, music
+
+-> g.fernandez0722@gmail.com
