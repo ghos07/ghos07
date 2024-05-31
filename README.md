@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on a game engine for Java.\n
+Currently working on a game engine for Java.
 Learning Java and Unity C#
 Interested in software dev, vr, music
 
